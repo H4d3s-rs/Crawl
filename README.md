@@ -1,5 +1,5 @@
 # Crawl
-One Web crawler in Python3
+A Web crawler written in Python3
 
 Use Mode:<br><br>
   -h, --help                             show this help message and exit<br>
